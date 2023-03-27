@@ -1,0 +1,7 @@
+print("Calcule aqui a area de um quadrado")
+
+base = input("Qual o valor da base do seu quadrado? ")
+altura = input("Qual o valor da altura do seu quadrado? ")
+area = float(base) * float(altura)
+
+print(f"O valor da area do seu quadrado é: {area}")
